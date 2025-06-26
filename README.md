@@ -6,7 +6,7 @@
 
 ## Projects
 ### [Bartendbook](https://github.com/JunhOpportunity/bartenbook) (2025-03 ~ 2025-06)
->Vanlia JS와 Firebase와 Map API를 활용한 '칵테일 레시피 공유' 플랫폼 <FE, BE, Team Leader>
+>Vanilla JS와 Firebase와 Map API를 활용한 '칵테일 레시피 공유' 플랫폼 <FE, BE, Team Leader>
 
 
 
