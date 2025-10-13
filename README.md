@@ -6,7 +6,7 @@
 
 
 ### WORK - FRONT END FREELANCER
-24-03-01 ~ 24-07-01 : Working on outsourcing of **Hanwha**
+24-03-01 ~ 24-07-01 : Working on outsourcing of **Hanwha Solution**
 
 ## Projects
 ### [Bartendbook](https://github.com/JunhOpportunity/bartenbook) (2025-03 ~ 2025-06)
