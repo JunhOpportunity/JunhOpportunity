@@ -9,10 +9,15 @@
 24-03-01 ~ 24-07-01 : Working on outsourcing of **Hanwha Solution**
 
 ## Projects
+### Guitar-Practice-Support-SW (2026-03 ~ )
+> 컴퓨터 비전 기반 실시간 기타 지판 인식 및 악보 자동 디지털 파싱을 지원하는 '실시간 AI 기타 연습 가이드' 프로그램 <FE, BE, Team Leader>
+
+### AI-Emotion-Highlight-Editor (2025-09 ~ 2025-12)
+> 멀티모달 AI 감정 분석 알고리즘을 활용한 비디오 스트리밍 데이터 기반 '영상의 핵심 하이라이트 추천 및 자동 편집' 프로그램 <FE, Team Leader>
+
+
 ### [Bartendbook](https://github.com/JunhOpportunity/bartenbook) (2025-03 ~ 2025-06)
 >Vanilla JS와 Firebase와 Map API를 활용한 '칵테일 레시피 공유' 플랫폼 <FE, BE, Team Leader>
-
-
 
 
 
